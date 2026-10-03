@@ -252,3 +252,21 @@ input.touched.is-valid:valid, select.touched.is-valid:valid, textarea.touched.is
 .project-copy > div { display: contents; }
 @media (min-width: 640px) { .project-toolbar { grid-template-columns: repeat(2,minmax(0,1fr)); } .project-toolbar > .small { grid-column: 1 / -1; } }
 @media (min-width: 768px) { .project.reverse .project-image { order: 2; } }
+
+/* Preferência visual da sessão, acessível por teclado. */
+.contrast-toggle { min-height: 2.75rem; padding: .5rem .75rem; border: 2px solid currentColor; border-radius: var(--radius-sm); color: var(--color-primary); background: var(--color-surface); font-size: var(--text-xs); }
+.alto-contraste {
+  --color-primary: #ffffff; --color-primary-hover: #ffff00;
+  --color-secondary: #ffff00; --color-secondary-hover: #ffff00;
+  --color-background: #000000; --color-surface: #000000;
+  --color-surface-muted: #141414; --color-text-muted: #ffffff;
+  --color-border: #ffffff; --color-input-border: #ffffff;
+  --color-success: #ffffff; --color-success-background: #141414;
+  --color-error: #ffff00; --color-error-background: #141414;
+  --color-focus: #ffff00;
+}
+.alto-contraste .brand img { background: #ffffff; border-radius: .25rem; }
+.alto-contraste .academic, .alto-contraste .nav-cta, .alto-contraste .button, .alto-contraste .callout { background: #000000; color: #ffffff; border: 2px solid #ffffff; }
+.alto-contraste .callout p, .alto-contraste .button.light { color: #ffffff; background: #000000; }
+.alto-contraste .button:hover { background: #141414; color: #ffff00; }
+@media (forced-colors: active) { .button, .favorite-button, .contrast-toggle { border: 2px solid ButtonText; } }

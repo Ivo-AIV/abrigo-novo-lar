@@ -5,12 +5,14 @@ import {iniciarNavegacao} from './modules/navegacao.mjs';
 import {iniciarFeedback} from './modules/feedback.mjs';
 import {iniciarFormulario} from './modules/formulario.mjs';
 import {criarArmazenamento} from './modules/armazenamento.mjs';
+import {iniciarAcessibilidade} from './modules/acessibilidade.mjs';
 
 let local;
 try { local=window.localStorage; } catch { local=undefined; }
 const storage=criarArmazenamento(local);
 const feedback=iniciarFeedback();
 iniciarNavegacao();
+iniciarAcessibilidade();
 const main=document.getElementById('conteudo');
 const titles={inicio:'Um novo começo para cada animal',projetos:'Projetos que acolhem e transformam',cadastro:'Faça parte da rede de cuidado','nao-encontrada':'Página não encontrada'};
 let dispose=()=>{};
