@@ -1,0 +1,295 @@
+{
+  "arquivos": [
+    {
+      "arquivo": ".nojekyll",
+      "bytes": 0
+    },
+    {
+      "arquivo": "css\\estilos.css",
+      "bytes": 17402
+    },
+    {
+      "arquivo": "imagens\\acolhimento-480.webp",
+      "bytes": 24278
+    },
+    {
+      "arquivo": "imagens\\acolhimento.jpg",
+      "bytes": 139317
+    },
+    {
+      "arquivo": "imagens\\acolhimento.webp",
+      "bytes": 78186
+    },
+    {
+      "arquivo": "imagens\\adocao-480.webp",
+      "bytes": 31646
+    },
+    {
+      "arquivo": "imagens\\adocao.jpg",
+      "bytes": 162335
+    },
+    {
+      "arquivo": "imagens\\adocao.webp",
+      "bytes": 92784
+    },
+    {
+      "arquivo": "imagens\\cuidado-480.webp",
+      "bytes": 19880
+    },
+    {
+      "arquivo": "imagens\\cuidado.jpg",
+      "bytes": 123640
+    },
+    {
+      "arquivo": "imagens\\cuidado.webp",
+      "bytes": 65496
+    },
+    {
+      "arquivo": "imagens\\marca.svg",
+      "bytes": 422
+    },
+    {
+      "arquivo": "index.html",
+      "bytes": 6779
+    },
+    {
+      "arquivo": "js\\main-B5L42JZL.js",
+      "bytes": 27418
+    },
+    {
+      "arquivo": "js\\projetos-LH4CWU5F.js",
+      "bytes": 177980
+    },
+    {
+      "arquivo": "VUE-LICENSE.txt",
+      "bytes": 1091
+    }
+  ],
+  "totalBytes": 968654,
+  "imagens": [
+    {
+      "arquivo": "imagens\\acolhimento-480.webp",
+      "bytes": 24278,
+      "largura": 480
+    },
+    {
+      "arquivo": "imagens\\acolhimento.webp",
+      "bytes": 78186,
+      "largura": 1120
+    },
+    {
+      "arquivo": "imagens\\cuidado-480.webp",
+      "bytes": 19880,
+      "largura": 480
+    },
+    {
+      "arquivo": "imagens\\cuidado.webp",
+      "bytes": 65496,
+      "largura": 1120
+    },
+    {
+      "arquivo": "imagens\\adocao-480.webp",
+      "bytes": 31646,
+      "largura": 480
+    },
+    {
+      "arquivo": "imagens\\adocao.webp",
+      "bytes": 92784,
+      "largura": 1120
+    }
+  ],
+  "entradas": {
+    "js/modules/rotas.mjs": {
+      "bytes": 575,
+      "imports": [],
+      "format": "esm"
+    },
+    "js/modules/templates.mjs": {
+      "bytes": 16347,
+      "imports": [],
+      "format": "esm"
+    },
+    "js/modules/roteador.mjs": {
+      "bytes": 841,
+      "imports": [],
+      "format": "esm"
+    },
+    "js/modules/navegacao.mjs": {
+      "bytes": 1965,
+      "imports": [],
+      "format": "esm"
+    },
+    "js/modules/feedback.mjs": {
+      "bytes": 1701,
+      "imports": [],
+      "format": "esm"
+    },
+    "js/modules/mascaras.mjs": {
+      "bytes": 1131,
+      "imports": [],
+      "format": "esm"
+    },
+    "js/modules/formulario.mjs": {
+      "bytes": 7820,
+      "imports": [
+        {
+          "path": "js/modules/mascaras.mjs",
+          "kind": "import-statement",
+          "original": "./mascaras.mjs"
+        }
+      ],
+      "format": "esm"
+    },
+    "js/modules/armazenamento.mjs": {
+      "bytes": 1329,
+      "imports": [],
+      "format": "esm"
+    },
+    "js/modules/acessibilidade.mjs": {
+      "bytes": 308,
+      "imports": [],
+      "format": "esm"
+    },
+    "js/vendor/vue.esm-browser.prod.mjs": {
+      "bytes": 173163,
+      "imports": [],
+      "format": "esm"
+    },
+    "js/modules/projetos-dados.mjs": {
+      "bytes": 4452,
+      "imports": [],
+      "format": "esm"
+    },
+    "js/modules/projetos.mjs": {
+      "bytes": 4072,
+      "imports": [
+        {
+          "path": "js/vendor/vue.esm-browser.prod.mjs",
+          "kind": "import-statement",
+          "original": "../vendor/vue.esm-browser.prod.mjs"
+        },
+        {
+          "path": "js/modules/projetos-dados.mjs",
+          "kind": "import-statement",
+          "original": "./projetos-dados.mjs"
+        }
+      ],
+      "format": "esm"
+    },
+    "js/main.mjs": {
+      "bytes": 3643,
+      "imports": [
+        {
+          "path": "js/modules/rotas.mjs",
+          "kind": "import-statement",
+          "original": "./modules/rotas.mjs"
+        },
+        {
+          "path": "js/modules/templates.mjs",
+          "kind": "import-statement",
+          "original": "./modules/templates.mjs"
+        },
+        {
+          "path": "js/modules/roteador.mjs",
+          "kind": "import-statement",
+          "original": "./modules/roteador.mjs"
+        },
+        {
+          "path": "js/modules/navegacao.mjs",
+          "kind": "import-statement",
+          "original": "./modules/navegacao.mjs"
+        },
+        {
+          "path": "js/modules/feedback.mjs",
+          "kind": "import-statement",
+          "original": "./modules/feedback.mjs"
+        },
+        {
+          "path": "js/modules/formulario.mjs",
+          "kind": "import-statement",
+          "original": "./modules/formulario.mjs"
+        },
+        {
+          "path": "js/modules/armazenamento.mjs",
+          "kind": "import-statement",
+          "original": "./modules/armazenamento.mjs"
+        },
+        {
+          "path": "js/modules/acessibilidade.mjs",
+          "kind": "import-statement",
+          "original": "./modules/acessibilidade.mjs"
+        },
+        {
+          "path": "js/modules/projetos.mjs",
+          "kind": "dynamic-import",
+          "original": "./modules/projetos.mjs"
+        }
+      ],
+      "format": "esm"
+    }
+  },
+  "saidas": {
+    "dist/js/main-B5L42JZL.js": {
+      "imports": [
+        {
+          "path": "dist/js/projetos-LH4CWU5F.js",
+          "kind": "dynamic-import"
+        }
+      ],
+      "exports": [],
+      "entryPoint": "js/main.mjs",
+      "inputs": {
+        "js/modules/rotas.mjs": {
+          "bytesInOutput": 380
+        },
+        "js/modules/templates.mjs": {
+          "bytesInOutput": 15929
+        },
+        "js/modules/roteador.mjs": {
+          "bytesInOutput": 569
+        },
+        "js/modules/navegacao.mjs": {
+          "bytesInOutput": 1119
+        },
+        "js/modules/feedback.mjs": {
+          "bytesInOutput": 1040
+        },
+        "js/modules/mascaras.mjs": {
+          "bytesInOutput": 709
+        },
+        "js/modules/formulario.mjs": {
+          "bytesInOutput": 4669
+        },
+        "js/modules/armazenamento.mjs": {
+          "bytesInOutput": 827
+        },
+        "js/modules/acessibilidade.mjs": {
+          "bytesInOutput": 209
+        },
+        "js/main.mjs": {
+          "bytesInOutput": 1966
+        }
+      },
+      "bytes": 27418
+    },
+    "dist/js/projetos-LH4CWU5F.js": {
+      "imports": [],
+      "exports": [
+        "inicializarProjetos"
+      ],
+      "entryPoint": "js/modules/projetos.mjs",
+      "inputs": {
+        "js/vendor/vue.esm-browser.prod.mjs": {
+          "bytesInOutput": 170800
+        },
+        "js/modules/projetos-dados.mjs": {
+          "bytesInOutput": 4170
+        },
+        "js/modules/projetos.mjs": {
+          "bytesInOutput": 2882
+        }
+      },
+      "bytes": 177980
+    }
+  }
+}
