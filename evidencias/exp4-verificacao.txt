@@ -1,0 +1,11 @@
+Verificação em Chrome, 03/10/2026.
+10 testes Node passaram, incluindo integridade de caminhos e chunks de produção.
+Três telas em 320 pixels sem transbordamento horizontal.
+Contraste de texto: três telas em dois temas, nenhuma falha medida; menor relação normal 5,32:1.
+Alto contraste alternado por teclado, mantido entre telas. Skip link levou foco ao conteúdo.
+Dialog abriu com foco no controle Fechar, Escape fechou e retornou foco ao acionador.
+Menu móvel abriu por Enter e fechou por Escape.
+Formulário vazio bloqueado com 16 campos sinalizados; dados fictícios válidos aceitaram o teste e exibiram toast.
+Revisão independente identificou foco preto sobre preto na callout em alto contraste. Reproduzido em produção, corrigido para amarelo sobre preto, novamente verificado.
+Build tem 16 arquivos e 968654 bytes antes da compressão HTTP.
+Sem leitor de tela real ou certificação WCAG.

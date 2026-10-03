@@ -1,0 +1,11 @@
+Revisão da release v1.0.0 em 03/10/2026.
+PR #1: alto contraste acessível, integrado à develop.
+PR #2: build, imagens, documentação e pipeline, integrado à develop.
+CI do PR #2: build passou em Ubuntu/Node22, execução 37128672766.
+https://github.com/Ivo-AIV/abrigo-novo-lar/actions/runs/37128672766
+Dez testes locais passaram. A revisão independente foi somente de leitura.
+Finding: contorno preto sobre fundo preto na callout do tema de alto contraste.
+Reproduzido no Chrome e corrigido no commit 7d626ce. Contorno amarelo sobre preto verificado após novo build; suite 10/10.
+Nenhuma outra falha importante identificada na revisão.
+Milestone 1 acompanha a entrega; issue #3 acompanha a verificação da publicação.
+Cobertura de acessibilidade e limitações em ACESSIBILIDADE.md.
