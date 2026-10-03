@@ -1,0 +1,2114 @@
+[
+  {
+    "falhas": [],
+    "menor": 5.32,
+    "registros": [
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 12.65,
+        "texto": "Ir para o conteúdo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Projeto acadêmico · ONG fictícia · Nenhum cadastro real é realiza"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "AbrigoNovo Lar"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Novo Lar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 12.65,
+        "texto": "Alto contraste"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "O abrigo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Nossos projetos ⌄"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "⌄"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Quero ajudar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 5.83,
+        "texto": "Acolhimento • Cuidado • Adoção"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Todo animal mereceum novo começo."
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 5.83,
+        "texto": "novo começo."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Um lugar seguro para quem perdeu o lar. Uma rede de cuidado para "
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Faça parte dessa história ↗"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "↗"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Conheça nossos projetos →"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Conheça a proposta de atuação do nosso abrigo fictício."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Cuidado é o primeiro passo para um novo lar."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 5.83,
+        "texto": "Quem somos"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Uma casa de passagem.Uma chance para a vida."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "O Abrigo Novo Lar é uma ONG fictícia dedicada ao acolhimento de c"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Nossa missão é oferecer proteção e dignidade aos animais, conecta"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 5.83,
+        "texto": "Nossa forma de cuidar"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Do acolhimento ao encontro."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Explore as iniciativas →"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 5.83,
+        "texto": "01"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Acolher"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Oferecer abrigo temporário, alimentação e segurança aos animais e"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Conhecer o acolhimento"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 5.83,
+        "texto": "02"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Cuidar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Promover avaliação veterinária, higiene e recuperação, respeitand"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Conhecer a rede de cuidado"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 5.83,
+        "texto": "03"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Conectar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Estimular a adoção responsável e orientar as famílias sobre os cu"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Conhecer a proposta de adoção"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Uma causa. Muitas formas de ajudar."
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Seu tempo tambémpode virar cuidado."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Voluntariado, apoio material e divulgação: cada gesto amplia a re"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Quero ser apoiador ↗"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Abrigo Novo Lar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Acolher hoje. Transformar uma vida inteira."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Contato demonstrativo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "contato@abrigonovolar.example"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Sobre esta demonstração"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 5.32,
+        "texto": "© 2026 · Organização fictícia para a disciplina de Desenvolviment"
+      }
+    ],
+    "total": 47,
+    "url": "http://127.0.0.1:8874/dist/index.html#/inicio"
+  },
+  {
+    "falhas": [],
+    "menor": 17.89,
+    "registros": [
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Ir para o conteúdo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Projeto acadêmico · ONG fictícia · Nenhum cadastro real é realiza"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "AbrigoNovo Lar"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Novo Lar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Alto contraste"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "O abrigo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Nossos projetos ⌄"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "⌄"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Quero ajudar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 19.56,
+        "texto": "Acolhimento • Cuidado • Adoção"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Todo animal mereceum novo começo."
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 19.56,
+        "texto": "novo começo."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Um lugar seguro para quem perdeu o lar. Uma rede de cuidado para "
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 20.47,
+        "texto": "Faça parte dessa história ↗"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 20.47,
+        "texto": "↗"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Conheça nossos projetos →"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Conheça a proposta de atuação do nosso abrigo fictício."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Cuidado é o primeiro passo para um novo lar."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 19.56,
+        "texto": "Quem somos"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Uma casa de passagem.Uma chance para a vida."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "O Abrigo Novo Lar é uma ONG fictícia dedicada ao acolhimento de c"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Nossa missão é oferecer proteção e dignidade aos animais, conecta"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 19.56,
+        "texto": "Nossa forma de cuidar"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Do acolhimento ao encontro."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Explore as iniciativas →"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 19.56,
+        "texto": "01"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Acolher"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Oferecer abrigo temporário, alimentação e segurança aos animais e"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Conhecer o acolhimento"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 19.56,
+        "texto": "02"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Cuidar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Promover avaliação veterinária, higiene e recuperação, respeitand"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Conhecer a rede de cuidado"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 19.56,
+        "texto": "03"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Conectar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Estimular a adoção responsável e orientar as famílias sobre os cu"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Conhecer a proposta de adoção"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Uma causa. Muitas formas de ajudar."
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Seu tempo tambémpode virar cuidado."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Voluntariado, apoio material e divulgação: cada gesto amplia a re"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 17.89,
+        "texto": "Quero ser apoiador ↗"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Abrigo Novo Lar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Acolher hoje. Transformar uma vida inteira."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Contato demonstrativo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "contato@abrigonovolar.example"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Sobre esta demonstração"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "© 2026 · Organização fictícia para a disciplina de Desenvolviment"
+      }
+    ],
+    "total": 47,
+    "url": "http://127.0.0.1:8874/dist/index.html#/inicio"
+  },
+  {
+    "falhas": [],
+    "menor": 5.32,
+    "registros": [
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 12.65,
+        "texto": "Ir para o conteúdo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Projeto acadêmico · ONG fictícia · Nenhum cadastro real é realiza"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "AbrigoNovo Lar"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Novo Lar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 12.65,
+        "texto": "Alto contraste"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "O abrigo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Nossos projetos ⌄"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "⌄"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Quero ajudar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Tela aberta: Projetos que acolhem e transformam."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 5.83,
+        "texto": "Da rua para uma nova história"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Cuidado que abre portas."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Três iniciativas complementares para proteger animais e aproximá-"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Nossas iniciativas sociais"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Buscar um projeto"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Área de atuação"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Mostrar somente favoritos"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 5.32,
+        "texto": "Favoritos ficam salvos apenas neste navegador. Você pode removê-l"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "3 de 3 projetos encontrados. 0 favoritos."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "01 / Proteção"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Acolhimento"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Portas Abertas"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Proposta de acolhimento temporário para cães e gatos desabrigados"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Público atendido"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Animais em situação de abandono ou vulnerabilidade."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Objetivo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Oferecer proteção até que cada animal possa iniciar sua recuperaç"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Como participar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Apoiar a rotina do abrigo ou contribuir com alimentos e materiais"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Apoiar o acolhimento →"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 12.65,
+        "texto": "♡ Salvar projeto"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "02 / Bem-estar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 7.72,
+        "texto": "Saúde animal"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Cuidar para Recomeçar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Iniciativa fictícia de acompanhamento veterinário, vacinação e ca"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Público atendido"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Cães e gatos acolhidos que precisam de cuidados de saúde."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Objetivo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Promover recuperação e bem-estar, preparando os animais para a ad"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Como participar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Colaborar com transporte, organização dos atendimentos e apoio ma"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Participar da rede de cuidado →"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 12.65,
+        "texto": "♡ Salvar projeto"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "03 / Vínculos"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 5.63,
+        "texto": "Adoção responsável"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Encontro de Patas"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Proposta de divulgação de animais disponíveis e encontros de adoç"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Público atendido"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Animais aptos à adoção e famílias interessadas em acolhê-los."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Objetivo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Construir vínculos duradouros, considerando as necessidades do an"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Como participar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Ajudar na divulgação, na organização dos encontros ou manifestar "
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Ajudar a encontrar novos lares →"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 12.65,
+        "texto": "♡ Salvar projeto"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 5.83,
+        "texto": "Faça parte da rede"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Duas formas de transformar."
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Trabalho voluntário"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "A proposta de voluntariado inclui apoio à alimentação, limpeza do"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Doações e apoio financeiro"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Alimentos, produtos de higiene e apoio financeiro podem contribui"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Em uma operação real, campanhas devem informar finalidade, metas,"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Escolher como ajudar ↗"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Sobre estes projetos"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "As iniciativas são exemplos acadêmicos. Não há animais reais anun"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Abrigo Novo Lar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Acolher hoje. Transformar uma vida inteira."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Contato demonstrativo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "contato@abrigonovolar.example"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Sobre esta demonstração"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 5.32,
+        "texto": "© 2026 · Organização fictícia para a disciplina de Desenvolviment"
+      }
+    ],
+    "total": 71,
+    "url": "http://127.0.0.1:8874/dist/index.html#/projetos"
+  },
+  {
+    "falhas": [],
+    "menor": 17.16,
+    "registros": [
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Ir para o conteúdo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Projeto acadêmico · ONG fictícia · Nenhum cadastro real é realiza"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "AbrigoNovo Lar"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Novo Lar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Alto contraste"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "O abrigo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Nossos projetos ⌄"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "⌄"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Quero ajudar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Tela aberta: Projetos que acolhem e transformam."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 19.56,
+        "texto": "Da rua para uma nova história"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Cuidado que abre portas."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Três iniciativas complementares para proteger animais e aproximá-"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Nossas iniciativas sociais"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Buscar um projeto"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Área de atuação"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Mostrar somente favoritos"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Favoritos ficam salvos apenas neste navegador. Você pode removê-l"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "3 de 3 projetos encontrados. 0 favoritos."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "01 / Proteção"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Acolhimento"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Portas Abertas"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Proposta de acolhimento temporário para cães e gatos desabrigados"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Público atendido"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Animais em situação de abandono ou vulnerabilidade."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Objetivo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Oferecer proteção até que cada animal possa iniciar sua recuperaç"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Como participar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Apoiar a rotina do abrigo ou contribuir com alimentos e materiais"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Apoiar o acolhimento →"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "♡ Salvar projeto"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "02 / Bem-estar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Saúde animal"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Cuidar para Recomeçar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Iniciativa fictícia de acompanhamento veterinário, vacinação e ca"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Público atendido"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Cães e gatos acolhidos que precisam de cuidados de saúde."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Objetivo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Promover recuperação e bem-estar, preparando os animais para a ad"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Como participar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Colaborar com transporte, organização dos atendimentos e apoio ma"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Participar da rede de cuidado →"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "♡ Salvar projeto"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "03 / Vínculos"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 17.16,
+        "texto": "Adoção responsável"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Encontro de Patas"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Proposta de divulgação de animais disponíveis e encontros de adoç"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Público atendido"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Animais aptos à adoção e famílias interessadas em acolhê-los."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Objetivo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Construir vínculos duradouros, considerando as necessidades do an"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Como participar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Ajudar na divulgação, na organização dos encontros ou manifestar "
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Ajudar a encontrar novos lares →"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "♡ Salvar projeto"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 19.56,
+        "texto": "Faça parte da rede"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Duas formas de transformar."
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Trabalho voluntário"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "A proposta de voluntariado inclui apoio à alimentação, limpeza do"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Doações e apoio financeiro"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Alimentos, produtos de higiene e apoio financeiro podem contribui"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Em uma operação real, campanhas devem informar finalidade, metas,"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 19.84,
+        "texto": "Escolher como ajudar ↗"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Sobre estes projetos"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "As iniciativas são exemplos acadêmicos. Não há animais reais anun"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Abrigo Novo Lar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Acolher hoje. Transformar uma vida inteira."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Contato demonstrativo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "contato@abrigonovolar.example"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Sobre esta demonstração"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "© 2026 · Organização fictícia para a disciplina de Desenvolviment"
+      }
+    ],
+    "total": 71,
+    "url": "http://127.0.0.1:8874/dist/index.html#/projetos"
+  },
+  {
+    "falhas": [],
+    "menor": 5.32,
+    "registros": [
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 12.65,
+        "texto": "Ir para o conteúdo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Projeto acadêmico · ONG fictícia · Nenhum cadastro real é realiza"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "AbrigoNovo Lar"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Novo Lar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 12.65,
+        "texto": "Alto contraste"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "O abrigo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Nossos projetos ⌄"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "⌄"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Quero ajudar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Tela aberta: Faça parte da rede de cuidado."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 5.83,
+        "texto": "Seu gesto faz parte do recomeço"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Junte-se à nossa rede."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Escolha como gostaria de apoiar o acolhimento de animais desabrig"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Antes de começar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Este é um formulário demonstrativo. Use apenas dados fictícios: n"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Campos marcados com * são obrigatórios. As máscaras organizam os "
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "*"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "1. Dados pessoais"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Nome completo *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "E-mail *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Telefone com DDD *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Ex.: (11) 98765-4321"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "CPF *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Formato: 000.000.000-00. Use dados de teste."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Data de nascimento *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "2. Endereço"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "CEP *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Ex.: 01001-000"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Estado *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Rua ou avenida *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Número *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Se não houver número, informe S/N."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Complemento"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Bairro *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Cidade *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "3. Como você quer participar?"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Escolha uma opção de apoio *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Voluntariado"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Doações"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Ambas as opções"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Projeto de interesse *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Disponibilidade ou tipo de apoio (opcional)"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Entendo que este é um projeto acadêmico e usarei somente dados fi"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Salvar somente minha forma de apoio e o projeto neste navegador."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 6.08,
+        "texto": "Nome, CPF, telefone, e-mail e endereço não serão armazenados. As "
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Esquecer preferências salvas"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Testar cadastro ↗"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 11.9,
+        "texto": "Limpar campos"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Abrigo Novo Lar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Acolher hoje. Transformar uma vida inteira."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Contato demonstrativo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "contato@abrigonovolar.example"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 10.41,
+        "texto": "Sobre esta demonstração"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 5.32,
+        "texto": "© 2026 · Organização fictícia para a disciplina de Desenvolviment"
+      }
+    ],
+    "total": 54,
+    "url": "http://127.0.0.1:8874/dist/index.html#/cadastro"
+  },
+  {
+    "falhas": [],
+    "menor": 18.42,
+    "registros": [
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Ir para o conteúdo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Projeto acadêmico · ONG fictícia · Nenhum cadastro real é realiza"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "AbrigoNovo Lar"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Novo Lar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Alto contraste"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "O abrigo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Nossos projetos ⌄"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "⌄"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Quero ajudar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Tela aberta: Faça parte da rede de cuidado."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 19.56,
+        "texto": "Seu gesto faz parte do recomeço"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Junte-se à nossa rede."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Escolha como gostaria de apoiar o acolhimento de animais desabrig"
+      },
+      {
+        "min": 3,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Antes de começar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Este é um formulário demonstrativo. Use apenas dados fictícios: n"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Campos marcados com * são obrigatórios. As máscaras organizam os "
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "*"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "1. Dados pessoais"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Nome completo *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "E-mail *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Telefone com DDD *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Ex.: (11) 98765-4321"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "CPF *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Formato: 000.000.000-00. Use dados de teste."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Data de nascimento *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "2. Endereço"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "CEP *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Ex.: 01001-000"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Estado *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Rua ou avenida *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Número *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Se não houver número, informe S/N."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Complemento"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Bairro *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Cidade *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "3. Como você quer participar?"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Escolha uma opção de apoio *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Voluntariado"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Doações"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Ambas as opções"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Projeto de interesse *"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Disponibilidade ou tipo de apoio (opcional)"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Entendo que este é um projeto acadêmico e usarei somente dados fi"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Salvar somente minha forma de apoio e o projeto neste navegador."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Nome, CPF, telefone, e-mail e endereço não serão armazenados. As "
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Esquecer preferências salvas"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 20.05,
+        "texto": "Testar cadastro ↗"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 21,
+        "texto": "Limpar campos"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Abrigo Novo Lar"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Acolher hoje. Transformar uma vida inteira."
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Contato demonstrativo"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "contato@abrigonovolar.example"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "Sobre esta demonstração"
+      },
+      {
+        "min": 4.5,
+        "ok": true,
+        "ratio": 18.42,
+        "texto": "© 2026 · Organização fictícia para a disciplina de Desenvolviment"
+      }
+    ],
+    "total": 54,
+    "url": "http://127.0.0.1:8874/dist/index.html#/cadastro"
+  }
+]

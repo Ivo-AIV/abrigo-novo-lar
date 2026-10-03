@@ -269,4 +269,5 @@ input.touched.is-valid:valid, select.touched.is-valid:valid, textarea.touched.is
 .alto-contraste .academic, .alto-contraste .nav-cta, .alto-contraste .button, .alto-contraste .callout { background: #000000; color: #ffffff; border: 2px solid #ffffff; }
 .alto-contraste .callout p, .alto-contraste .button.light { color: #ffffff; background: #000000; }
 .alto-contraste .button:hover { background: #141414; color: #ffff00; }
+.alto-contraste .callout :focus-visible { outline-color: var(--color-focus); }
 @media (forced-colors: active) { .button, .favorite-button, .contrast-toggle { border: 2px solid ButtonText; } }

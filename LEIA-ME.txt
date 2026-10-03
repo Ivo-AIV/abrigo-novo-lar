@@ -1,45 +1,15 @@
-ABRIGO NOVO LAR: Experiências Práticas I, II e III
-ONG fictícia de acolhimento de animais desabrigados.
+ABRIGO NOVO LAR: Experiências Práticas I a IV
 
-EXECUÇÃO
-Esta versão usa módulos JavaScript e precisa ser aberta por um servidor HTTP. Abrir o arquivo por duplo clique não é o modo de execução da SPA.
-Na pasta abrigo-novo-lar, execute:
-python -m http.server 8765 --bind 127.0.0.1
-Depois abra http://127.0.0.1:8765/html/index.html no Chrome.
-Também pode ser utilizado outro servidor estático local. A aplicação não precisa de npm install ou etapa de build; o Vue está incluído no pacote.
+Projeto acadêmico e ONG fictícia. Fotografias geradas por IA. Nenhum cadastro real.
 
-NAVEGAÇÃO
-O endereço principal reúne as telas #/inicio, #/projetos e #/cadastro. Links como #/projetos/cuidar abrem uma iniciativa específica. Voltar e avançar do navegador acompanham as mudanças. Rotas desconhecidas recebem uma mensagem de orientação.
+Instruções completas em README.md.
+Requisitos: Node 22 ou superior, npm e servidor HTTP.
+Na pasta abrigo-novo-lar: npm ci, npm run build e npm test.
+Depois: python -m http.server 8765 --bind 127.0.0.1
+Produção: http://127.0.0.1:8765/dist/index.html
+Origem: http://127.0.0.1:8765/html/index.html
 
-ESTRUTURA
-html/index.html: documento principal, cabeçalho, rodapé, conteúdo inicial e componentes compartilhados.
-css/estilos.css: sistema visual, Grid de 12 colunas, Flexbox, estados de interação e regras responsivas.
-js/main.mjs: coordenação das telas e do rascunho em memória.
-js/modules/: rotas, roteador, templates, navegação, feedback, máscaras, formulário, dados dos projetos, componente Vue e armazenamento.
-js/vendor/: Vue 3.5.43 em distribuição ESM para navegador, licença MIT e origem.
-imagens/: três cenas geradas por IA em JPEG, PNG e WebP; marca.svg é somente o símbolo da identidade.
-tests/: testes das rotas, filtragem, persistência, máscaras e verificadores do CPF.
-evidencias/: capturas e relatórios da versão final.
+Site: https://ivo-aiv.github.io/abrigo-novo-lar/
+Repositório: https://github.com/Ivo-AIV/abrigo-novo-lar
 
-FORMULÁRIO E PERSISTÊNCIA
-Use somente dados fictícios. O formulário valida dados pessoais, endereço e forma de participação, mas não envia informações ou realiza cadastro real.
-Ao alternar telas, um rascunho pode permanecer em memória até recarregar a página. Nome, CPF, telefone, e-mail e endereço não são persistidos em localStorage.
-Se a opção de lembrar estiver marcada após um teste válido, somente perfil de apoio e projeto de interesse são salvos na chave abrigo:preferencias:v1. Esquecer preferências salvas remove essa chave.
-Favoritos usam abrigo:favoritos:v1 e guardam somente IDs de projetos. Cada botão de favorito permite salvar ou remover a seleção.
-Leitura e gravação tratam JSON inválido, bloqueio e falha de armazenamento. Um erro não impede usar as telas. Dados salvos pertencem à origem e ao navegador utilizados; outro navegador ou porta não compartilha esses registros.
-Não existe backend, cadastro, adoção ou pagamento real. Máscaras e CPF verificam formato e dígitos; não consultam existência ou titularidade.
-
-ACESSIBILIDADE E INTERAÇÃO
-Idioma pt-BR, títulos semânticos, regiões nomeadas, labels, mensagens junto aos campos, aria-invalid, aria-describedby, alertas e estados. Menu compacto e dropdown aceitam teclado e Escape. Dialog nativo possui nome acessível e retorno de foco. Toast pode ser dispensado e pausa ao receber foco ou ponteiro.
-Mudanças de tela atualizam título, aria-current e foco. Links profundos posicionam a iniciativa. Ao remover o último resultado focado ou limpar filtros, o foco retorna à busca. A aplicação respeita prefers-reduced-motion.
-Sem JavaScript, o conteúdo inicial continua legível, acompanhado de uma orientação; as outras telas e os testes de interação dependem de JavaScript.
-
-TESTES
-Com Node instalado, execute na pasta do projeto:
-node --test tests/*.test.mjs
-Os testes não exigem dependências adicionais. A pasta evidencias registra os testes em Chrome e a validação do HTML.
-
-AUTORIA E CONTEXTO
-Material desenvolvido com assistência de IA para estudo de front-end. Organização, projetos e contato são fictícios. Fotografias foram geradas com image_gen e não representam animais ou profissionais reais. O domínio .example é reservado para exemplos.
-Vue: https://vuejs.org/guide/quick-start.html
-Distribuição em produção: https://vuejs.org/guide/best-practices/production-deployment.html
+ACESSIBILIDADE.md registra cobertura e limitações. CONTRIBUTING.md e CHANGELOG.md explicam manutenção e histórico. evidencias/ conserva os registros atuais. dist/ contém somente os recursos publicados.
