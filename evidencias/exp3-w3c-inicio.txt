@@ -1,0 +1,6 @@
+Nu Html Checker, documento renderizado da rota #/inicio. Elementos de extensões excluídos da captura.
+Document checking completed. No errors or warnings to show.
+
+Used the HTML parser.
+
+Total execution time 9 milliseconds.

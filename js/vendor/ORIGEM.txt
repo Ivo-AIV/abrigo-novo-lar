@@ -1,0 +1,5 @@
+Vue 3.5.43
+Origem: https://registry.npmjs.org/vue/-/vue-3.5.43.tgz
+Build ESM para navegador em produção, distribuído localmente.
+Documentação: https://vuejs.org/guide/quick-start.html
+Licença MIT incluída em VUE-LICENSE.txt.
